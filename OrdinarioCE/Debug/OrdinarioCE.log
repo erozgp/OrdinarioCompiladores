@@ -1,0 +1,9 @@
+﻿  OrdinarioCE.cpp
+C:\Users\tomrm\Desktop\ORDINARIO_COMPILADORES\OrdinarioCE\Ordinl.h(1335,36): warning C4273: 'isatty': vinculación de DLL incoherente
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_io.h(491,30): message : vea la definición anterior de 'isatty'
+C:\Users\tomrm\Desktop\ORDINARIO_COMPILADORES\OrdinarioCE\Ordiny.h(1102,5): warning C4065: la instrucción switch contiene etiquetas 'default' pero no etiquetas 'case'
+C:\Users\tomrm\Desktop\ORDINARIO_COMPILADORES\OrdinarioCE\OrdinarioCE.cpp(224,9): warning C4101: 'hdc': variable local sin referencia
+C:\Users\tomrm\Desktop\ORDINARIO_COMPILADORES\OrdinarioCE\OrdinarioCE.cpp(223,17): warning C4101: 'ps': variable local sin referencia
+C:\Users\tomrm\Desktop\ORDINARIO_COMPILADORES\OrdinarioCE\OrdinarioCE.cpp(237,11): warning C4101: 'txt': variable local sin referencia
+C:\Users\tomrm\Desktop\ORDINARIO_COMPILADORES\OrdinarioCE\OrdinarioCE.cpp(1141): warning C4715: 'saveFileAs': no todas las rutas de acceso de control devuelven un valor
+  OrdinarioCE.vcxproj -> C:\Users\tomrm\Desktop\ORDINARIO_COMPILADORES\OrdinarioCE\Debug\OrdinarioCE.exe
